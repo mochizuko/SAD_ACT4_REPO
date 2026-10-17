@@ -5,4 +5,4 @@
 - Nieves, Kaye (@KayeNieves): Collaborator<br>
 Invite Status: **Pending**
 - Prof. Amador (@madzamador): Instructor<br>
-Invite Status: Pending
+Invite Status: **Pending**
